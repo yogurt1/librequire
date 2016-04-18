@@ -1,0 +1,25 @@
+{
+  "name": "librequire",
+  "description": "Frontend-side CommonJS require via Fetch API",
+  "main": "",
+  "authors": [
+    "yogurt1 <stalinswag1@gmail.com>"
+  ],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "require",
+    "commonjs",
+    "fetchapi",
+    "frontend",
+    "coffeescript"
+  ],
+  "moduleType": [],
+  "homepage": "github.com/yogurt1/librequire",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
