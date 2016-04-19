@@ -11,9 +11,15 @@
     "commonjs",
     "fetchapi",
     "frontend",
-    "coffeescript"
+    "coffeescript",
+    "js",
+    "javascript",
+    "web"
   ],
-  "moduleType": [],
+  "main": [
+    "dist/librequire.js"
+  ],	
+  "moduleType": ["globals"],
   "homepage": "github.com/yogurt1/librequire",
   "ignore": [
     "**/.*",
